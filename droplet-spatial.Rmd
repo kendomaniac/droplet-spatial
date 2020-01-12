@@ -2,11 +2,22 @@
 title: "droplet-spatial"
 author: "Raffaele A Calogero"
 date: "1/12/2020"
-output: html_document
+output: pdf_document
+toc: yes
+
+header-includes:
+- \usepackage{makeidx}
+- \makeindex
+- \usepackage{setspace}\doublespacing
+- \usepackage{pdfpages}
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+\newpage
+\tableofcontents
+
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.pos = 'h')
 ```
 
 ## Introduction
