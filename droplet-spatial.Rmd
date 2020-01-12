@@ -1,0 +1,15 @@
+---
+title: "droplet-spatial"
+author: "Raffaele A Calogero"
+date: "1/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This github contains all the steps for an examplary analysis of droplet-based RNAseq and spatial-transcriptomics data, described in chapter *Computational analysis of single cell RNAseq data* in Methods in Molecular Biology, (vol. XX, 2020)
+
