@@ -1,6 +1,6 @@
 ---
 title: "droplet-spatial: supporting material for the chapter *computational analysis of single cell RNAseq data*"
-author: "Raffaele A Calogero"
+author: "Luca Alessandrì, Francesca Cordero, Marco Beccuti, Maddalena Arigoni and Raffaele A. Calogero"
 date: "30/01/2020"
 output: pdf_document
 toc: yes
