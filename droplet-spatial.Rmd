@@ -1,5 +1,5 @@
 ---
-title: "droplet-spatial: supporting materila to Computational analysis of single cell RNAseq data chapter"
+title: "droplet-spatial: supporting material for the chapter *computational analysis of single cell RNAseq data*"
 author: "Raffaele A Calogero"
 date: "30/01/2020"
 output: pdf_document
